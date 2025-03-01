@@ -32,7 +32,8 @@ This Excel file, **Macdonald Dashboard**, is designed to provide insights and da
 - Modifying column structures in the Inputs sheet may affect the dashboard.
 - Ensure consistency in data entry to prevent errors in analysis.
 
-Author
+Author:
+
 Santanu Barman Contact No: 8403830746
 
 
